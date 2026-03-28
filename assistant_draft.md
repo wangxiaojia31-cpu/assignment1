@@ -19,7 +19,7 @@ As electric vehicles become more widespread, the charging infrastructure behind 
 ## Reflection Note
 
 **Prompt used:**
-> "Create content for assistant_draft.md. The file should contain: a short title, one short paragraph introducing you (I'm Xiaojia, a JHU ISAI student), one short paragraph describing an industry, function, or problem area you care about (how can I use blockchain in EV charging?), one short bullet list of 3 ways generative AI might be useful in that area. At the bottom, add a short note with: the exact prompt you used, one or two sentences on what the assistant did well, one or two sentences on anything you needed to clarify or adjust."
+> "Create content for assistant_draft.md. The file should contain: a short title, one short paragraph introducing you (I'm Xiaojia, a JHU ISAI student), one short paragraph describing an industry, function, or problem area you care about (how can I use blockchain in EV charging?), one short bullet list of 3 ways generative AI might be useful in that area. 
 
 **What the assistant did well:**
 The assistant produced a well-structured and coherent draft that accurately reflected the specified details — name, program, and topic area — with relevant, specific generative AI use cases tied directly to blockchain and EV charging.
